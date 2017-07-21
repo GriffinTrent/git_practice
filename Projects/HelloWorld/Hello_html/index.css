@@ -1,0 +1,29 @@
+.header {
+    background-image: url( "file:///Users/GriffinTrent/Projects/HelloWorld/img/cigars-header.png");
+    text-align: center;
+    color: firebrick;
+    text-shadow: 2px 2px white;
+    font-size: 89px;
+    padding-top: 40px;
+    opacity: .5;
+}
+.header-text {
+opacity: 1 !important;
+}
+.button {
+    width: 200px;
+    height: 80px;
+    border-radius: 5px;
+    border-color: yellow;
+    background: green;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    color: yellow;
+    line-height: 80px
+}
+.1 div {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
